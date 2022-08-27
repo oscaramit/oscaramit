@@ -64,7 +64,7 @@
   }
   
   .header {
-    background-image: url(../imgs/shape-a);
+    background-image: url(./shape-a);
     background-position: center;
   }
   
@@ -90,7 +90,7 @@
   .title-icon {
     font-family: "Anton", sans-serif;
     font-size: 40px;
-    color: rgba(188, 188, 194, 0.945);
+    color: rgb(211, 53, 53)
     
 
   }
@@ -100,7 +100,7 @@
     border-radius: 25px;
     border: none;
     padding: 10px 20px;
-    background-color: rgb(212, 33, 108);
+    background-color: rgb(211, 38, 110);
   }
   
   .frist h1 {
@@ -182,7 +182,23 @@
   .tabel-row {
     width: 320px;
   }
-  
+  .disease {
+    font-size: 40px;
+  }
+
+  .CORONAVIRUS{
+    color: blue;
+    font-size: 25px;
+  }
+  .section-title{
+    font-size: 40px;
+  }
+  .second-section-title{
+  font-size: 30px;  
+  }
+
+
+
   .tabel-row a {
     text-decoration: none;
     color: rgb(122, 19, 190);
@@ -191,7 +207,7 @@
   }
   
   .tabel-head {
-    color: black;
+    color: rgb(211, 37, 37);
     border-top: 1px solid rgb(220, 220, 220);
   }
   
@@ -274,7 +290,7 @@
   }
   
   .eighth {
-    background-image: url(../imgs/shape-a);
+    background-image: url(./shape-a);
     background-color: rgb(67, 80, 255);
   }
   
@@ -291,6 +307,15 @@
   
   .Treatment2 {
     background-color: rgb(0, 0, 172);
+  }
+
+  .second-section-titleA{
+    color: rgb(247, 19, 19);
+    font-size: 60px;
+  }
+  .section-titleA{
+    color:blue;
+    font-size: 25px;
   }
   
   .dont-text {
@@ -422,7 +447,7 @@
   
   footer {
     background-color: rgb(0, 0, 46);
-    background-image: url(./corona-imgs/shape-a.png);
+    background-image: url(./shape-a.png);
     background-position: center;
     color: rgb(99, 99, 99);
   }
